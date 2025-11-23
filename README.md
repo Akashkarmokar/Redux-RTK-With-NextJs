@@ -4,6 +4,9 @@ This project embodies about the best practice of React Redux and Redux Tool kit 
 Each Branch is responsible about the different different features of RTK and so on excluding main branch . 
 Main branch only for **setup** and **SLICE** practice of RTK. 
 
+**BRANCHES**
+-> Main: Redux Setup and RTK initialization . 
+-> feature/F-1_Redux_Thunk : Async State Management
 
 
 ## Getting Started
